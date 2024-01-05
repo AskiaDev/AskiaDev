@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=askiadev" alt="askiadev" /></a> </p>
 
-- 🔭 I’m currently working on **Some Side Projects**
-
 - 🌱 I’m currently learning **Typescript, NodeJS, Express, Firebase**
 
 - 💬 Ask me about **ReactJS, TailwindCSS**
