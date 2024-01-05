@@ -8,10 +8,6 @@
 - 🌱 I’m currently learning **Typescript, NodeJS, Express, Firebase**
 
 - 💬 Ask me about **ReactJS, TailwindCSS**
-
-- 📫 How to reach me **itsmejamesmanjares@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <div align="center">
   <a href="https://www.facebook.com/ManjaresJames" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
